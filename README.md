@@ -1,16 +1,37 @@
-# myresumeapp
+<!-- ABOUT THE PROJECT -->
+## About The Project And Feature
+An interactive resume mobile version.
+1. Dark Mode
 
-A new Flutter project.
+<!-- Code Base -->
+## Code Base
 
-## Getting Started
+### Prerequisites
 
-This project is a starting point for a Flutter application.
+To run any Android application built with Flutter you need to configure the enviroments in your machine, you can do this following the the tutorial provided by Google in [Flutter website](https://flutter.dev/docs/get-started/install)
+1. The app run from main.dart
+2. Then the homepage.dart has a tabbar that has 2 tabview controller.
 
-A few resources to get you started if this is your first Flutter project:
+<!-- Libarary Used -->
+## Library Use
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1. <a href="https://pub.dev/packages/google_fonts">Google fonts:</a>  Was installed to use the poppins fonts.
+2. <a href="https://pub.dev/packages/flutter_screenutil">flutter_screenutil:</a>  To make the app responsive.
+3. <a href="https://pub.dev/packages/font_awesome_flutter">font_awesome_flutter:</a>  Installed to use some external font.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<!-- Upcoming feature -->
+## Upcoming feature
+- User can download my CV
+
+<!-- Challenge faced -->
+## Challenge faced
+None
+
+<!-- Appetize Link -->
+## Appetize Link
+Click <a href="https://appetize.io/app/ns5zbag53gjrlw3rvw7ycznwz4">here</a>
+
+
+<!-- Apk Download Link -->
+## Appetize Link
+Download <a href="https://drive.google.com/file/d/1GbNsQB5TR3QTlhnGQZ2QX4H3EzOSOUdk/view?usp=sharing">here</a>

@@ -13,7 +13,6 @@ class AboutMe extends StatelessWidget {
       shrinkWrap: true,
       children: [
         Row(
-          // crossAxisAlignment: CrossAxisAlignment.center,
           children: [
             CircleAvatar(
               backgroundImage: const AssetImage('images/my_pic.jpg'),

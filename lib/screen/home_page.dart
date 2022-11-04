@@ -9,12 +9,9 @@ class HomePage extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      // backgroundColor: Colors.black,
       backgroundColor: const Color(0xFF131015),
       appBar: AppBar(
         elevation: 40.0,
-        // backgroundColor: Colors.white,
-        // backgroundColor: Colors.black,
         backgroundColor: const Color(0xFF131015),
         title: Text(
           'My Resume App',

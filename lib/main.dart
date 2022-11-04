@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:myresumeapp/screen/home_page.dart';
-import 'package:google_fonts/google_fonts.dart';
 import 'package:flutter_screenutil/flutter_screenutil.dart';
 
 void main() {
@@ -16,15 +15,6 @@ class MyApp extends StatelessWidget {
       builder: (context, child) => const MaterialApp(
         debugShowCheckedModeBanner: false,
         title: 'My Resume App',
-        // theme: ThemeData(
-        //   // scaffoldBackgroundColor: Colors.white,
-        //   // scaffoldBackgroundColor: const Color(0xFF131015),
-        //   // primarySwatch: Colors.blue,
-        //   // fontFamily: 'Poppins',
-        //   textTheme: GoogleFonts.robotoTextTheme(
-        //     Theme.of(context).textTheme,
-        //   ),
-        // ),
         home: HomePage(),
       ),
     );
