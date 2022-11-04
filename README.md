@@ -33,5 +33,5 @@ Click <a href="https://appetize.io/app/ns5zbag53gjrlw3rvw7ycznwz4">here</a>
 
 
 <!-- Apk Download Link -->
-## Appetize Link
+## Apk Download Link
 Download <a href="https://drive.google.com/file/d/1GbNsQB5TR3QTlhnGQZ2QX4H3EzOSOUdk/view?usp=sharing">here</a>
